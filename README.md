@@ -22,3 +22,12 @@ SysCalManager is a bash script toolkit designed to manage calendar events and pr
 ## Requirements
 - Bash shell
 - `dialog` package (Install using `sudo apt-get install dialog` on Debian-based systems)
+
+## Custom Dialog Appearance
+The project utilizes a customized dialog appearance, enhancing the user interface for better visual experience. Key features include:
+
+- **Color Support**: Full color support for dialog boxes, ensuring a vibrant and engaging user interface.
+- **Customizable Elements**: Elements like buttons, borders, and text boxes are configured for optimal visibility and aesthetics.
+- **Shadow Effects**: Dialog boxes are designed with shadow effects for a more polished look.
+
+These settings are defined in a separate configuration file, ensuring easy customization and consistent styling across different dialogues.
